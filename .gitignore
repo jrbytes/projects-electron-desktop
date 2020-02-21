@@ -1,0 +1,6 @@
+backend
+frontend
+node_modules
+projects-win32-x64
+yarn-error.log
+yarn.lock
